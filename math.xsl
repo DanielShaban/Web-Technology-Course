@@ -7,7 +7,7 @@
                 <meta charset="utf-8"/>
                 <title>Daniel shaban</title>
                 <style type="text/css">
-                    svg { font-size: 400%; }
+                    mjx-container { font-size: 4em }
                 </style>
                 <script id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/mml-svg.js"/>
             </head>
