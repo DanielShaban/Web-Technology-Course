@@ -4,7 +4,8 @@ const app = express()
 const PORT = process.env.PORT || 80
 
 app.get('/', (req, res)=>{
-    res.sendFile('/index.html')
+    // res.sendFile('/index.html')
+    res.end('es')
 })
 
 app.get('/math', (req, res)=>{
